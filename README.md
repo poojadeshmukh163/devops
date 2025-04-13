@@ -1,2 +1,2 @@
 # devops
-it is devops repository
+for devoos
