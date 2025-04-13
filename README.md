@@ -1,2 +1,2 @@
 # devops
-for devoos
+for devops
